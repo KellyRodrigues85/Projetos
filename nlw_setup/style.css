@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: #09090A;
+    color: white;
+    height: 100vh;
+  }
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+ }
+
+ button{
+    padding: 16px 24px;
+    border-radius: 8px ;
+    border: 1px solid #8B5CF6;
+    background-color: transparent;
+    color: white;
+    display: flex;
+    align-items: center;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 125%;
+    gap: 12px;
+ }
+
+ 
